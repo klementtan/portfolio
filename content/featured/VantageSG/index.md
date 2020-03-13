@@ -1,12 +1,14 @@
 ---
 date: '2'
 title: 'Vantage SG'
+external: 'http://vantage-sg.com'
 cover: './demo.png'
-github: 'hhttps://github.com/VantageSG/Vantage'
+github: 'https://github.com/VantageSG/Vantage'
 tech:
   - Ruby on Rails
   - React
   - OAS3
+  - Docker
 showInProjects: true
 ---
 
