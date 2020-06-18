@@ -1,12 +1,12 @@
 ---
 date: '2'
-title: 'Vantage SG'
+title: 'Speech to Text Resume Builder - Vantage SG'
 cover: './demo.png'
-github: 'hhttps://github.com/VantageSG/Vantage'
+github: 'https://github.com/VantageSG/Vantage'
+external: 'https://vantage-sg.com'
 tech:
   - Ruby on Rails
   - React
-  - OAS3
 showInProjects: true
 ---
 
